@@ -1,0 +1,28 @@
+name: The Itinerant Gourmet
+favicon: null
+layout_spectrum: 0.026075015543028712
+typography_spectrum: 0.3742793737910688
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.998718643328175
+  lightness: 0.6831512381322682
+  saturation: 0.22233720449730754
+  rhythmicContrast: 0.9328460297547281
+purpose: []
