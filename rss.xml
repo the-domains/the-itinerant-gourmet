@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Itinerant Gourmet]]></title>
+        <description><![CDATA[The Itinerant Gourmet]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 05 Jan 2016 02:18:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>What is this blog about? That's the question. I set this blogger up in 2008 when I had the inspiration to document food and cooking... And then promptly dropped the blogging idea... But I never deleted this account.</p>]]></description>
+            <link>undefined8587a71a-d663-43b7-b412-285d675e1e9f/index.html</link>
+            <guid isPermaLink="false">8587a71a-d663-43b7-b412-285d675e1e9f</guid>
+            <pubDate>Tue, 05 Jan 2016 02:18:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
