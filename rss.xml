@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[The Itinerant Gourmet]]></title>
         <description><![CDATA[The Itinerant Gourmet]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-itinerant-gourmet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 02:18:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Jan 2016 02:22:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-itinerant-gourmet/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>What is this blog about? That's the question. I set this blogger up in 2008 when I had the inspiration to document food and cooking... And then promptly dropped the blogging idea... But I never deleted this account.</p>]]></description>
-            <link>undefined8587a71a-d663-43b7-b412-285d675e1e9f/index.html</link>
+            <link>https://thegrid.ai/the-itinerant-gourmet/8587a71a-d663-43b7-b412-285d675e1e9f/index.html</link>
             <guid isPermaLink="false">8587a71a-d663-43b7-b412-285d675e1e9f</guid>
-            <pubDate>Tue, 05 Jan 2016 02:18:24 GMT</pubDate>
+            <pubDate>Tue, 05 Jan 2016 02:22:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
